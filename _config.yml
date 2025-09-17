@@ -39,8 +39,8 @@ tiktok_username                           : clearrr
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : AI-Powered Skin Enhancement
-    description                           : Advanced AI technology instantly smooths skin, erases acne, and fixes spots with professional-quality results in just minutes.
+  - title                                 : Advanced Skin Enhancement
+    description                           : Instantly smooth skin, erase acne, and fix spots with professional-quality results in just minutes.
     fontawesome_icon_name                 : magic
     
   - title                                 : One-Tap Glow Up
