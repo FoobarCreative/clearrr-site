@@ -129,7 +129,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
+  - CLAUDE.md
+  - _pages/changelog.md
+  
 include:
   - ".well-known"
 
