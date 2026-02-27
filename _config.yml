@@ -30,13 +30,13 @@ email_address                             : support@clearrr.app
 formspree_form_id                         : mgvljygg                                 # Enter your Formspree form ID here
 linkedin_username                         :                                           
 linkedin_company                          :                                           
-facebook_username                         : clearrr                                          
-instagram_username                        : clearrr
-twitter_username                          : 
-github_username                           : 
+facebook_username                         :
+instagram_username                        :
+twitter_username                          :
+github_username                           :
 youtube_username                          :
 mastodon_link                             :
-tiktok_username                           : clearrr
+tiktok_username                           :
 
 
 # Feature List                            Edit, add or remove features to be presented.
