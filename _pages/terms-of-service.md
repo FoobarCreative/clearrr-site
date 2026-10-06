@@ -28,7 +28,7 @@ You must be **18 years or older** to use Clearrr. By using the App you confirm t
 
 ### 2. What Clearrr Does
 
-Clearrr lets you upload photos of yourself and use AI to enhance your appearance — including skin smoothing, blemish removal, virtual hair try-on, and outfit changes. Clearrr is designed for use with photos of yourself only.
+Clearrr lets you upload photos from your camera roll and use AI to apply real camera looks, such as digicam, film, Y2K, golden hour, night out and disposable, and to enhance, unblur or retouch a photo. Clearrr is designed for use with photos of yourself only.
 
 ---
 

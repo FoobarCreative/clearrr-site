@@ -1,5 +1,5 @@
 #page title
-page_title                                : "Clearrr: Acne, Spot & Blemish Remover for iPhone"                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : "Clearrr: Digicam, Film & Y2K Camera Looks for iPhone"                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # Site URL (required for sitemap)
 url                                       : https://www.clearrr.app
@@ -16,12 +16,13 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon512.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Clearrr                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : " "                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Erase acne, spots & blemishes
+app_description                           : Real camera looks for your camera roll. Digicam flash, film grain, Y2K colour. Your face stays yours.
 app_category                              : MultimediaApplication                     # Schema.org applicationCategory for structured data (e.g. UtilitiesApplication, MultimediaApplication, DesignApplication, LifestyleApplication, BrowserApplication).
-app_subtitle                              : AI acne & blemish remover
+app_subtitle                              : Digicam, film & Y2K camera looks
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 og_image                                  : assets/clearrr_og_image.jpg                    # The default open graph image
+og_image_alt                              : Clearrr - Digicam, film and Y2K camera looks for iPhone
 
 enable_guides                             : false   # Set to true to link the /guides index in the header and footer. Also add guide markdown files to _guides/ and remove _pages/guides.html from the exclude list below, otherwise the index is not built at all.
 
@@ -53,66 +54,59 @@ tiktok_username                           :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
+  - title                                 : Digicam
+    description                           : Hard flash, fine grain and that early-2000s point-and-shoot colour cast. The going-out look.
+    fontawesome_icon_name                 : camera-retro
+  - title                                 : Film & Y2K
+    description                           : Soft halation and warm shadows from a roll of 35mm, or pushed contrast and CCD colour straight off a camera your parents owned.
+    fontawesome_icon_name                 : film
+  - title                                 : Golden Hour & Night Out
+    description                           : Low warm light with a soft falloff at any time of day, or a flash-lit foreground with the room falling into dark behind you.
+    fontawesome_icon_name                 : sun
+  - title                                 : Disposable
+    description                           : Blown-out flash and that end-of-roll, date-stamp look.
+    fontawesome_icon_name                 : bolt
+  - title                                 : Still looks like you
+    description                           : Clearrr improves the photo without swapping out the person in it. Better light, cleaner detail, your actual features.
+    fontawesome_icon_name                 : user-check
+  - title                                 : Enhance, Unblur & Retouch
+    description                           : Recover detail in flat or underexposed photos, sharpen the shot you only got one of, and light skin cleanup when you want it.
+    fontawesome_icon_name                 : wand-magic-sparkles
 
-  - title                                 : Advanced Skin Enhancement
-    description                           : Instantly smooth skin, erase acne, and fix spots with professional-quality results in just minutes.
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : One-Tap Glow Up
-    description                           : Get that clean face look you want with our simple interface. No stress, no learning curve, no endless sliders.
-    fontawesome_icon_name                 : mouse-pointer
-
-  - title                                 : Virtual Hair Try-On
-    description                           : Switch up your hairstyle with virtual try-on technology. Explore new looks without the salon trip.
-    fontawesome_icon_name                 : cut
-
-  - title                                 : Outfit Changes
-    description                           : Change clothes in your photos and explore new styles without the shopping spree. Complete transformations made easy.
-    fontawesome_icon_name                 : tshirt
-
-  - title                                 : Perfect for Social Media
-    description                           : Ideal for quick social posts, dating profile pics, or testing out your style. Fast, easy, and built for everyone.
-    fontawesome_icon_name                 : share-alt
-  
-  - title                                 : Natural-Looking Results
-    description                           : Show off your best self with smooth skin and flawless vibes. No fake filters, just authentic enhancements.
-    fontawesome_icon_name                 : eye
-
-# Style
-default_primary                           : "#B4F8C8"
-dark_primary                              : "#A6E8BB"
-accent                                    : "#FFAEBC"
-dark_accent                               : "#ff4868"
+default_primary                           : "#8afec1"#B4F8C8"
+dark_primary                              : "#5fd9a0"#A6E8BB"
+accent                                    : "#d46e88"#FFAEBC"
+dark_accent                               : "#b8506c"#ff4868"
 
 clearrr_yellow                           : "#FBE7C6"
 
 # Theme Settings
-topbar_color                              : "#FBE7C6"
+topbar_color                              : "#d9f1e4"#FBE7C6"
 topbar_transparency                       : 1.0
-topbar_title_color                        : "#ffffff"
+topbar_title_color                        : "#1c4a37"#ffffff"
 
-cover_image                               : assets/clearrr_pink.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/clearrr_mint.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#000000"
 cover_overlay_transparency                : 0.0
 
-device_color                              : coral                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#ff4868"
+link_color                                : "#1c4a37"#ff4868"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color                           : "#1c4a37"#ffffff"
+app_price_color                           : "#1c4a37"#ffffff"
+app_description_color                     : "#1c4a37"#ffffff"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#ff4868"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#1c4a37"#ff4868"
+feature_icons_background_color            : "#d9f1e4"#e6e6e6"
 
-social_icons_foreground_color             : "#666666"
-social_icons_background_color             : "#e6e6e6"
+social_icons_foreground_color             : "#1c4a37"#666666"
+social_icons_background_color             : "#d9f1e4"#e6e6e6"
 
 footer_text_color                         : "#666666"
 
