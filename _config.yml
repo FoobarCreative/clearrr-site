@@ -1,5 +1,5 @@
 #page title
-page_title                                : Clearrr                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : "Clearrr: Acne, Spot & Blemish Remover for iPhone"                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # Site URL (required for sitemap)
 url                                       : https://www.clearrr.app
@@ -18,6 +18,7 @@ app_name                                  : Clearrr                             
 app_price                                 : " "                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Erase acne, spots & blemishes
 app_category                              : MultimediaApplication                     # Schema.org applicationCategory for structured data (e.g. UtilitiesApplication, MultimediaApplication, DesignApplication, LifestyleApplication, BrowserApplication).
+app_subtitle                              : AI acne & blemish remover
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 og_image                                  : assets/clearrr_og_image.jpg                    # The default open graph image
